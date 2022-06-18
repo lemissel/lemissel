@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ConnectBe Contabilidade Proativa and Controla Campo
-- 🌱 I’m currently learning Go and artificial intelligence
+- 🔭 I’m currently working on TC
+- 🌱 I’m currently learning Go, React and React Native
 - 📫 How to reach me:
   * 🚀 [Blog PT-BR](https://misselsoft.com.br/blog) <br>
   * 🐦 [Twitter](https://twitter.com/lemissel) <br>
